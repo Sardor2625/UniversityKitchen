@@ -26,7 +26,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers\" />
+      <Compile Include="wwwroot\Controller\HomeController.cs" />
     </ItemGroup>
 
 </Project>

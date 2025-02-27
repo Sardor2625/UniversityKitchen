@@ -1,4 +1,5 @@
-﻿using UniversityKitchen.Data.Enum;
+﻿using System;
+using UniversityKitchen.Data.Enum;
 
 namespace UniversityKitchen.Data.Models;
 

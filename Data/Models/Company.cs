@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace UniversityKitchen.Data.Models;
 
 public class Company

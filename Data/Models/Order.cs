@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Conventions;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using UniversityKitchen.Data.Enum;
 
 namespace UniversityKitchen.Data.Models
