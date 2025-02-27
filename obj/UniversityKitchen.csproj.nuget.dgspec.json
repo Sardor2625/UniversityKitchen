@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sardor\\RiderProjects\\UniversityProject\\UniversityKitchen\\UniversityKitchen.csproj": {}
+    "D:\\UniversityKitchen\\UniversityKitchen\\UniversityKitchen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sardor\\RiderProjects\\UniversityProject\\UniversityKitchen\\UniversityKitchen.csproj": {
+    "D:\\UniversityKitchen\\UniversityKitchen\\UniversityKitchen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sardor\\RiderProjects\\UniversityProject\\UniversityKitchen\\UniversityKitchen.csproj",
+        "projectUniqueName": "D:\\UniversityKitchen\\UniversityKitchen\\UniversityKitchen.csproj",
         "projectName": "UniversityKitchen",
-        "projectPath": "C:\\Users\\Sardor\\RiderProjects\\UniversityProject\\UniversityKitchen\\UniversityKitchen.csproj",
-        "packagesPath": "C:\\Users\\Sardor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sardor\\RiderProjects\\UniversityProject\\UniversityKitchen\\obj\\",
+        "projectPath": "D:\\UniversityKitchen\\UniversityKitchen\\UniversityKitchen.csproj",
+        "packagesPath": "C:\\Users\\hishi\\.nuget\\packages\\",
+        "outputPath": "D:\\UniversityKitchen\\UniversityKitchen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sardor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
