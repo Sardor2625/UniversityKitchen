@@ -1,0 +1,14 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+shelf/
+
+rider.project.model.nuget.info
+rider.project.restore.info
+
+obj/
+bin/
+*.cache
+*.patch
+workspace.xml
